@@ -41,7 +41,7 @@ The repository is organized into three core modules, each addressing a key aspec
 
 1. Clone this repository to your local machine using:
 
-   `git clone ``https://github.com/HSY98/DCFmodel.git`
+   `git clone https://github.com/HSY98/DCFmodel.git`
 
 2. Refer to the `README.md` for detailed parameter configuration tutorials and COMSOL coupling workflows.
 
